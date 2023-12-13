@@ -1,0 +1,42 @@
+* Version control system-It maintains all the edits and historic versions of the projects.
+it is a collection of sotware tools that helps a team to work together on the same project.
+
+GIT                                         GITHUB
+
+.Software                                    .service
+.installed locally on system                 .hosted in the system
+.high quality version control system         .cloud based hosting service
+.it distributed version control system       .it provides hosting for software development and 
+ for tracking changes in source code           version control using git
+ during software development
+.focused on version control and code sharing  .focused on centralized source code hosting
+
+*Git repository hosting services
+.github           .launchpad
+.gitlab           .perforce
+.bitbucket        .beanstalk
+sourceorge        .assembla
+.gitenterprise
+
+*Git repository
+.it stores git files
+.These files can either be stored on the local repository or on the remote repository
+
+*initialize a repository in git
+.using git init command
+
+*States of a files in git
+three different states
+.modified
+.staged
+.committed
+
+*Git commands
+.git init :-to initialize an empty git repository
+.git configure:-to configure a username and email add
+.git add :-to add one or more files to the staging area
+.git diff :-to view the changes made to a file
+.git commit :-to commit changes to head but not to the remote repository
+.git log :-list the version history for the current branch
+.git checkout :-used to switch from one branch to another
+
