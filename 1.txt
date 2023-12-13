@@ -1,4 +1,4 @@
-* Version control system-It maintains all the edits and historic versions of the projects.
+* VERSION CONTROL SYSYTEM:-It maintains all the edits and historic versions of the projects.
 it is a collection of sotware tools that helps a team to work together on the same project.
 
 GIT                                         GITHUB
@@ -11,27 +11,27 @@ GIT                                         GITHUB
  during software development
 .focused on version control and code sharing  .focused on centralized source code hosting
 
-*Git repository hosting services
+*GIT REPOSITORY HOSTING SERVICES:-
 .github           .launchpad
 .gitlab           .perforce
 .bitbucket        .beanstalk
 sourceorge        .assembla
 .gitenterprise
 
-*Git repository
+*GIT REPOSITORY:-
 .it stores git files
 .These files can either be stored on the local repository or on the remote repository
 
-*initialize a repository in git
+*INITIALIZE A REPOSITORY IN GIT:-
 .using git init command
 
-*States of a files in git
+*STATES OF A FILES IN GIT:-
 three different states
 .modified
 .staged
 .committed
 
-*Git commands
+*GIT COMMANDS:-
 .git init :-to initialize an empty git repository
 .git configure:-to configure a username and email add
 .git add :-to add one or more files to the staging area
